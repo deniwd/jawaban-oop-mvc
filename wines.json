@@ -1,0 +1,30 @@
+[
+   {
+      "id": 1,
+      "name": "Moscato 2010",
+      "year": 2010,
+      "type": "Red",
+      "createdAt": "2021-01-10T00:00:00.000Z"
+   },
+   {
+      "id": 2,
+      "name": "White Bourdon",
+      "year": 2010,
+      "type": "White",
+      "createdAt": "2022-03-18T14:24:56.124Z"
+   },
+   {
+      "id": 3,
+      "name": "Red Caliber",
+      "year": 2015,
+      "type": "Red",
+      "createdAt": "2022-03-18T14:25:16.828Z"
+   },
+   {
+      "id": 4,
+      "name": "Black Canary",
+      "year": 2000,
+      "type": "Other",
+      "createdAt": "2022-03-18T14:25:39.401Z"
+   }
+]
